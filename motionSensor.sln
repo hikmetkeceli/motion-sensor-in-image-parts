@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "motionSensor", "motionSensor\motionSensor.csproj", "{527D538F-CD88-456B-A502-4E31FE7D4834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527D538F-CD88-456B-A502-4E31FE7D4834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527D538F-CD88-456B-A502-4E31FE7D4834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527D538F-CD88-456B-A502-4E31FE7D4834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527D538F-CD88-456B-A502-4E31FE7D4834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {531952A0-A900-414A-8C10-5B2C8A8C6B4E}
+	EndGlobalSection
+EndGlobal

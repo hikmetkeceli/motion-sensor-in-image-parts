@@ -1,0 +1,126 @@
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe.config
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.pdb
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.dll
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.dll
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.xml
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.xml
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.AssemblyReference.cache
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Form1.resources
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Properties.Resources.resources
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.GenerateResource.cache
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CoreCompileInputs.cache
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CopyComplete
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.exe
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.pdb
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.dll
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.dll
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.dll
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.xml
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.xml
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.xml
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.dll
+C:\Users\ENIAC\source\repos\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.xml
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe.config
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.pdb
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.dll
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.dll
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.dll
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.dll
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.dll
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.dll
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.xml
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.xml
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.xml
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.xml
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.xml
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.xml
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.AssemblyReference.cache
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Form1.resources
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Properties.Resources.resources
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.GenerateResource.cache
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CoreCompileInputs.cache
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CopyComplete
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.exe
+C:\Users\ENIAC\Desktop\C#\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.pdb
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe.config
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.pdb
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.dll
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.dll
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.dll
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.dll
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.dll
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.dll
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.xml
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.xml
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.xml
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.xml
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.xml
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.xml
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.AssemblyReference.cache
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Form1.resources
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Properties.Resources.resources
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.GenerateResource.cache
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CoreCompileInputs.cache
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CopyComplete
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.exe
+C:\Users\ENIAC\Desktop\C#\aforge\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.pdb
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe.config
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.pdb
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.dll
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.dll
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.dll
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.dll
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.dll
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.dll
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.xml
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.xml
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.xml
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.xml
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.xml
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.xml
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.AssemblyReference.cache
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Form1.resources
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Properties.Resources.resources
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.GenerateResource.cache
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CoreCompileInputs.cache
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CopyComplete
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.exe
+C:\Users\ENIAC\Desktop\iş\semerkandtv\masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.pdb
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe.config
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.exe
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\aforge görüntü işleme.pdb
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.dll
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.dll
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.dll
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.dll
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.dll
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.dll
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.dll
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.xml
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Controls.xml
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Imaging.xml
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Math.xml
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.xml
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Video.DirectShow.xml
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\bin\Debug\AForge.Vision.xml
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.AssemblyReference.cache
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.SuggestedBindingRedirects.cache
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Form1.resources
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge_görüntü_işleme.Properties.Resources.resources
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.GenerateResource.cache
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CoreCompileInputs.cache
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.csproj.CopyComplete
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.exe
+D:\Projects\25_10_2022_masterbackupcontrol\SonS\aforge görüntü işleme\aforge görüntü işleme\obj\Debug\aforge görüntü işleme.pdb
