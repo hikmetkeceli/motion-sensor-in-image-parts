@@ -9,6 +9,6 @@ AForge.Video.DirectShow;
 AForge.Vision.Motion;
 
 # images
-![ui-image](img/ui.png)
+![ui-image](/img/ui.png)
 
-![application](img/run.png)
+![application](/img/run.png)
