@@ -9,6 +9,6 @@ AForge.Video.DirectShow;
 AForge.Vision.Motion;
 
 # images
-![ui-image](/img/ui.png)
+![ui-image](https://github.com/hikmetkeceli/motion-sensor-in-image-parts/blob/main/imgs/run.png)
 
-![application](/img/run.png)
+![application](https://github.com/hikmetkeceli/motion-sensor-in-image-parts/blob/main/imgs/ui.png)
